@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>RNA-seq 分析平台 | NEXUS</title>
+  <meta name="theme-color" content="#00f5ff" />
+  <link rel="stylesheet" href="/static/style.css" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🧬</text></svg>">
+</head>
+<body>
+  <!-- 顶部导航栏 -->
+  <header class="topbar">
+    <div class="container">
+      <div>
+        <h1>🧬 RNA-seq NEXUS</h1>
+        <p class="subtitle">▸ FastAPI Backend · Native Web Frontend · Async Job Processing</p>
+      </div>
+      <div style="font-family: 'JetBrains Mono', monospace; font-size: 11px; color: rgba(0, 245, 255, 0.7);">
+        <span style="color: #00ff88;">●</span> SYSTEM ONLINE
+      </div>
+    </div>
+  </header>
+
+  <main class="container spa">
+    <!-- 侧边栏控制面板 -->
+    <aside class="sidebar">
+      <div class="navTitle">分析模块</div>
+      <nav class="nav">
+        <a href="#/submit" data-route="/submit" class="navItem">
+          <span style="opacity: 0.5;">01</span> 提交任务
+        </a>
+        <a href="#/jobs" data-route="/jobs" class="navItem">
+          <span style="opacity: 0.5;">02</span> 任务 & 结果
+        </a>
+        <a href="#/gsea" data-route="/gsea" class="navItem">
+          <span style="opacity: 0.5;">03</span> GSEA 分析
+        </a>
+        <a href="#/heatmap" data-route="/heatmap" class="navItem">
+          <span style="opacity: 0.5;">04</span> 热图生成
+        </a>
+        <a href="#/volcano" data-route="/volcano" class="navItem">
+          <span style="opacity: 0.5;">05</span> 火山图
+        </a>
+      </nav>
+      <div class="sidebarHint">
+        <div><b>▸ 当前任务 ID</b></div>
+        <div id="currentJobId" class="mono" style="margin: 0.5rem 0;">--</div>
+        <button id="copyJobIdBtn" class="button secondary" style="margin-top: 0.5rem; width: 100%; font-size: 10px; padding: 10px;">
+          ◈ 复制 Job ID
+        </button>
+      </div>
+    </aside>
+
+    <!-- 主内容区 -->
+    <section class="content">
+      <div id="view"></div>
+    </section>
+  </main>
+
+  <footer class="footer container">
+    <small>◢ NEXUS RNA-seq Analysis Platform ◣ | 支持 Human / Mouse | R 计算引擎 | FastAPI 异步任务</small>
+  </footer>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>
