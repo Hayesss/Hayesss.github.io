@@ -1,0 +1,24 @@
+converting counts to integer mode
+
+Attaching package: ‘plotthis’
+
+The following object is masked from ‘package:ComplexHeatmap’:
+
+    Heatmap
+
+热图生成完成: /home/zhs/RNA_seq_web/var/jobs/fe66ca2b3b374b6d930d9154b0b1a2cc/output/heatmap.png 
+Warning message:
+In value[[3L]](cond) :
+  单通路 GSEA 图生成失败（不影响热图）: argument is of length zero
+converting counts to integer mode
+
+Attaching package: ‘plotthis’
+
+The following object is masked from ‘package:ComplexHeatmap’:
+
+    Heatmap
+
+热图生成完成: /home/zhs/RNA_seq_web/var/jobs/fe66ca2b3b374b6d930d9154b0b1a2cc/output/heatmap.png 
+Warning message:
+In value[[3L]](cond) :
+  单通路 GSEA 图生成失败（不影响热图）: argument is of length zero

@@ -1,0 +1,15 @@
+{
+  "state": "success",
+  "message": "success",
+  "created_at": "2026-01-02T10:23:16.156800+00:00",
+  "started_at": "2026-01-02T10:23:19Z",
+  "finished_at": "2026-01-02T10:23:58Z",
+  "gsea_single_plot": {
+    "state": "success",
+    "message": "单通路 GSEA 图生成完成",
+    "finished_at": "2026-01-02T10:25:05.227344+00:00",
+    "output": "gsea_pathway_HALLMARK_COMPLEMENT.png",
+    "pathway_id": "HALLMARK_COMPLEMENT",
+    "pathway_description": "HALLMARK_COMPLEMENT"
+  }
+}

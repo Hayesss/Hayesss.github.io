@@ -1,0 +1,15 @@
+{
+  "state": "success",
+  "message": "success",
+  "created_at": "2026-01-02T10:41:24.396087+00:00",
+  "started_at": "2026-01-02T10:41:27Z",
+  "finished_at": "2026-01-02T10:42:05Z",
+  "gsea_single_plot": {
+    "state": "success",
+    "message": "单通路 GSEA 图生成完成",
+    "finished_at": "2026-01-02T10:45:28.758737+00:00",
+    "output": "gsea_pathway_HALLMARK_CHOLESTEROL_HOMEOSTASIS.png",
+    "pathway_id": "HALLMARK_CHOLESTEROL_HOMEOSTASIS",
+    "pathway_description": "HALLMARK_CHOLESTEROL_HOMEOSTASIS"
+  }
+}

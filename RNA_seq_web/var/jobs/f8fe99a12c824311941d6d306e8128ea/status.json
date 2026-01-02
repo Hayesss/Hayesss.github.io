@@ -1,0 +1,16 @@
+{
+  "state": "success",
+  "message": "success",
+  "created_at": "2026-01-02T08:57:43.942690+00:00",
+  "started_at": "2026-01-02T08:57:47Z",
+  "finished_at": "2026-01-02T08:58:22Z",
+  "heatmap_from_gsea": {
+    "state": "success",
+    "message": "热图生成完成",
+    "finished_at": "2026-01-02T08:59:44.007731+00:00",
+    "outputs": [
+      "heatmap.png",
+      "heatmap_genes.csv"
+    ]
+  }
+}

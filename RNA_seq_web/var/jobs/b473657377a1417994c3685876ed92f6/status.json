@@ -1,0 +1,7 @@
+{
+  "state": "error",
+  "message": "error: 'head' is not an exported object from 'namespace:dplyr'",
+  "created_at": "2026-01-01T12:33:32Z",
+  "started_at": "2026-01-01T12:33:32Z",
+  "finished_at": "2026-01-01T12:33:32Z"
+}

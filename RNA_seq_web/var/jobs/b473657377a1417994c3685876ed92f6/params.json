@@ -1,0 +1,8 @@
+{
+  "job_id": "b473657377a1417994c3685876ed92f6",
+  "parent_job_id": "2205aabc292e40fab6fbc46906aecfe5",
+  "derived_type": "volcano",
+  "parent_job_dir": "/home/zhs/RNA_seq_web/var/jobs/2205aabc292e40fab6fbc46906aecfe5",
+  "top_n": 10,
+  "mark_genes": "Fpr1,Il6,Marco,Csf3,Prok2,Il1b,Osm,Olr1,Cxcl5,Ccl7,Il1a,Timp1,Sell,Bdkrb1,Cxcl9,Tnfrsf9,Plaur,Ifitm1,Clec5a,Msr1,Ccl5,Cd69,Lta,Ccr7,Tnfsf9,Lcp2,Il18rap,Gpr132,Cxcl10,Itgb8,Lif,Adora2b,Sphk1,Il10ra,Inhba,Slc28a2,Cd40,Cybb,Adm,Icam1,Tnfrsf1b,Cd14,Hbegf,Rasgrp1,Nod2,Cxcl11,Cd48,Pde4b,Osmr,Gpr183,Il4ra,Il2rb,Rgs16,Nfkbia,Ebi3,Hif1a,Lyn,C3ar1,Has2,Mmp14,Gch1,Lck,Vip,Pik3r5,Kcnj2,Pdpn,Il18,Ripk2,Bst2"
+}

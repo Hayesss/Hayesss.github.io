@@ -1,0 +1,8 @@
+{
+  "job_id": "751a39cbe9374121b4e44030ce7e1247",
+  "parent_job_id": "452c36e0458e4d4b9e797fa625d71ccc",
+  "derived_type": "heatmap_from_gsea",
+  "parent_job_dir": "/home/zhs/RNA_seq_web/var/jobs/452c36e0458e4d4b9e797fa625d71ccc",
+  "pathway_id": "HALLMARK_ALLOGRAFT_REJECTION",
+  "pathway_description": "HALLMARK_ALLOGRAFT_REJECTION"
+}

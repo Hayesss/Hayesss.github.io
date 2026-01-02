@@ -1,0 +1,22 @@
+converting counts to integer mode
+converting counts to integer mode
+estimating size factors
+estimating dispersions
+gene-wise dispersion estimates
+mean-dispersion relationship
+final dispersion estimates
+fitting model and testing
+
+
+Attaching package: ‘plotthis’
+
+The following object is masked from ‘package:ComplexHeatmap’:
+
+    Heatmap
+
+Warning messages:
+1: In fgseaMultilevel(pathways = pathways, stats = stats, minSize = minSize,  :
+  For some pathways, in reality P-values are less than 1e-10. You can set the `eps` argument to zero for better estimation.
+2: Calling gsva(expr=., gset.idx.list=., method=., ...) is deprecated; use a method-specific parameter object (see '?gsva'). 
+3: In run_tf_activity(vst_matrix, organism = org, cache_dir = cache_dir,  :
+  使用 minsize=5 时没有source满足条件。 最大target数: 3。尝试使用 minsize=1

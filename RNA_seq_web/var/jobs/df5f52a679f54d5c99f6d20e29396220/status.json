@@ -1,0 +1,7 @@
+{
+  "state": "error",
+  "message": "error: GSEA 失败: Timeout was reached [zenodo.org]:\nOperation timed out after 300007 milliseconds with 7998220 out of 33730584 bytes received",
+  "created_at": "2025-12-31T09:00:16.728848+00:00",
+  "started_at": "2025-12-31T09:00:40Z",
+  "finished_at": "2025-12-31T09:06:29Z"
+}

@@ -1,0 +1,18 @@
+{
+  "state": "success",
+  "message": "success",
+  "created_at": "2026-01-02T03:25:57.826036+00:00",
+  "started_at": "2026-01-02T03:26:00Z",
+  "finished_at": "2026-01-02T03:26:34Z",
+  "volcano_inplace": {
+    "state": "success",
+    "message": "火山图生成完成",
+    "finished_at": "2026-01-02T03:29:05.652568+00:00",
+    "outputs": [
+      "volcano_custom.png",
+      "volcano_custom_top_genes.csv",
+      "volcano_custom_marked_genes.csv"
+    ],
+    "top_n": 10
+  }
+}

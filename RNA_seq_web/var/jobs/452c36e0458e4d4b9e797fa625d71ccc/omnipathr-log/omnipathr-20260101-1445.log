@@ -1,0 +1,31 @@
+[2026-01-01 14:45:31] [INFO]    [OmnipathR] Welcome to OmnipathR!
+[2026-01-01 14:45:31] [INFO]    [OmnipathR] Setting up new cache directory `/home/zhs/.cache/OmnipathR`.
+[2026-01-01 14:45:31] [TRACE]   [OmnipathR] Reading JSON from `/home/zhs/.cache/OmnipathR/cache.json` (encoding: UTF-8).
+[2026-01-01 14:45:31] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2026-01-01 14:45:31] [INFO]    [OmnipathR] Initialized cache: `/home/zhs/.cache/OmnipathR`.
+[2026-01-01 14:45:31] [TRACE]   [OmnipathR] Reading JSON from `/home/zhs/miniforge3/envs/rna_seq_web/lib/R/library/OmnipathR/db/db_def.json` (encoding: UTF-8).
+[2026-01-01 14:45:31] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2026-01-01 14:45:31] [TRACE]   [OmnipathR] Reading JSON from `/home/zhs/miniforge3/envs/rna_seq_web/lib/R/library/OmnipathR/internal/magic_bytes.json` (encoding: UTF-8).
+[2026-01-01 14:45:31] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2026-01-01 14:45:31] [TRACE]   [OmnipathR] Reading JSON from `/home/zhs/miniforge3/envs/rna_seq_web/lib/R/library/OmnipathR/internal/urls.json` (encoding: UTF-8).
+[2026-01-01 14:45:31] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2026-01-01 14:45:31] [TRACE]   [OmnipathR] Reading JSON from `/home/zhs/miniforge3/envs/rna_seq_web/lib/R/library/OmnipathR/internal/id_types.json` (encoding: UTF-8).
+[2026-01-01 14:45:31] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2026-01-01 14:45:31] [INFO]    [OmnipathR] Loading database `Ensembl and OMA organism names`.
+[2026-01-01 14:45:31] [TRACE]   [OmnipathR] Reading JSON from `/home/zhs/.cache/OmnipathR/cache.json` (encoding: UTF-8).
+[2026-01-01 14:45:31] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2026-01-01 14:45:31] [INFO]    [OmnipathR] Looking up in cache `https://www.ensembl.org/info/about/species.html`: key=7332486db7400730697234bad76ca0c8e4d00799, no version available.
+[2026-01-01 14:45:31] [TRACE]   [OmnipathR] Reading JSON from `/home/zhs/.cache/OmnipathR/cache.json` (encoding: UTF-8).
+[2026-01-01 14:45:31] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2026-01-01 14:45:31] [INFO]    [OmnipathR] Created new version for cache record 7332486db7400730697234bad76ca0c8e4d00799: version 1.
+[2026-01-01 14:45:31] [TRACE]   [OmnipathR] Cache file path: /home/zhs/.cache/OmnipathR/7332486db7400730697234bad76ca0c8e4d00799-1.html
+[2026-01-01 14:45:31] [INFO]    [OmnipathR] Retrieving URL: `https://www.ensembl.org/info/about/species.html`
+[2026-01-01 14:45:31] [TRACE]   [OmnipathR] Attempt 1/3: `https://www.ensembl.org/info/about/species.html`
+[2026-01-01 14:45:42] [WARN]    [OmnipathR] HTTP 404
+[2026-01-01 14:45:42] [WARN]    [OmnipathR] Failed to download `https://www.ensembl.org/info/about/species.html` (attempt 1/3); error: HTTP 404
+[2026-01-01 14:45:47] [TRACE]   [OmnipathR] Attempt 2/3: `https://www.ensembl.org/info/about/species.html`
+[2026-01-01 14:47:56] [TRACE]   [OmnipathR] HTTP 200
+[2026-01-01 14:47:56] [INFO]    [OmnipathR] Download ready [key=7332486db7400730697234bad76ca0c8e4d00799, version=1]
+[2026-01-01 14:47:56] [TRACE]   [OmnipathR] Reading JSON from `/home/zhs/.cache/OmnipathR/cache.json` (encoding: UTF-8).
+[2026-01-01 14:47:56] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2026-01-01 14:47:56] [INFO]    [OmnipathR] Cache item `7332486db7400730697234bad76ca0c8e4d00799` version 1: status changed from `unknown` to `ready`.

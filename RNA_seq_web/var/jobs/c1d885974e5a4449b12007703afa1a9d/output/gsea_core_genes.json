@@ -1,0 +1,402 @@
+[
+  {
+    "ID": "HALLMARK_ALLOGRAFT_REJECTION",
+    "Description": "HALLMARK_ALLOGRAFT_REJECTION",
+    "NES": 3.0541,
+    "p.adjust": 6.25e-10,
+    "core_genes": ["Il6", "Il1b", "Ccl7", "Il11", "Cxcl13", "Nos2", "Timp1", "Cxcl9", "Stat4", "Tnf", "H2-Ob", "Ccl5", "Cd79a", "H2-DMb2", "Ltb", "Gzmb", "Srgn", "Ccr5", "Socs1", "Hcls1", "Capg", "Lcp2", "Il18rap", "Fgr", "H2-Oa", "Cd80", "Spi1", "Ccr2", "Ncf4", "Lif", "Nme1", "Inhba", "Il12rb1", "Fcgr2b", "Was", "Ly86", "Map4k1", "Cd86", "Cd40", "Il2ra", "Gzma", "Inhbb", "Icam1", "Ptprc", "Il12a", "Il2rg", "Bcl3", "Il27ra", "Il16", "Cd2", "Cd247", "Gpr65", "Rpl39-ps", "Npm1", "Itgal", "Cd3d", "H2-DMa", "Il4ra", "Il2rb", "Cfp", "Pf4", "Hif1a", "Lyn", "Tap1", "Ets1", "H2-Aa", "Cd3g", "Klrd1", "Cartpt", "Tgfb1", "Cd47", "Ifnar2", "Lck", "Prkcb", "Eif5a", "Il18", "Stat1", "Ripk2", "Psmb10", "Rps3a1", "Cd8a", "Abce1", "Itk", "Ptpn6", "Zap70", "Cd3e", "Brca1", "Icosl", "C2", "Ube2n"],
+    "_row": "HALLMARK_ALLOGRAFT_REJECTION"
+  },
+  {
+    "ID": "HALLMARK_INFLAMMATORY_RESPONSE",
+    "Description": "HALLMARK_INFLAMMATORY_RESPONSE",
+    "NES": 2.7558,
+    "p.adjust": 6.25e-10,
+    "core_genes": ["Fpr1", "Il6", "Marco", "Csf3", "Prok2", "Il1b", "Osm", "Olr1", "Cxcl5", "Ccl7", "Il1a", "Timp1", "Sell", "Bdkrb1", "Cxcl9", "Tnfrsf9", "Plaur", "Ifitm1", "Clec5a", "Msr1", "Ccl5", "Cd69", "Lta", "Ccr7", "Tnfsf9", "Lcp2", "Il18rap", "Gpr132", "Cxcl10", "Itgb8", "Lif", "Adora2b", "Sphk1", "Il10ra", "Inhba", "Slc28a2", "Cd40", "Cybb", "Adm", "Icam1", "Tnfrsf1b", "Cd14", "Hbegf", "Rasgrp1", "Nod2", "Cxcl11", "Cd48", "Pde4b", "Osmr", "Gpr183", "Il4ra", "Il2rb", "Rgs16", "Nfkbia", "Ebi3", "Hif1a", "Lyn", "C3ar1", "Has2", "Mmp14", "Gch1", "Lck", "Vip", "Pik3r5", "Kcnj2", "Pdpn", "Il18", "Ripk2", "Bst2"],
+    "_row": "HALLMARK_INFLAMMATORY_RESPONSE"
+  },
+  {
+    "ID": "HALLMARK_TNFA_SIGNALING_VIA_NFKB",
+    "Description": "HALLMARK_TNFA_SIGNALING_VIA_NFKB",
+    "NES": 2.6865,
+    "p.adjust": 6.25e-10,
+    "core_genes": ["Cxcl2", "Il6", "Il1b", "Olr1", "Cxcl5", "Il1a", "Cxcl1", "Dusp2", "Socs3", "Tnfrsf9", "Plaur", "Plek", "Tnf", "Ccl5", "Cd69", "Bcl2a1d", "Ier3", "Tnfsf9", "Phlda2", "Cd80", "Cxcl10", "Lif", "Cebpb", "Fosl1", "G0s2", "Sphk1", "Inhba", "Clcf1", "Areg", "Pfkfb3", "Icam1", "Nfkbie", "Bcl3", "Gadd45b", "Slc2a6", "Rel", "Hbegf", "Dram1", "Phlda1", "Cxcl11", "Pde4b", "Zc3h12a", "Ifit2", "Gpr183", "Map3k8", "Dusp1", "Nfkbia", "Yrdc", "Slc16a6", "Sat1", "Kynu", "Egr2", "Tap1", "Junb", "Slc2a3", "Egr1", "Cebpd", "Zfp36", "Nfil3", "Gadd45a", "Ppp1r15a", "Egr3", "Klf10", "Gch1", "Ccnl1", "Il18", "Ripk2", "Ehd1", "Snn", "Icosl", "Ier2", "Birc2", "Pmepa1", "Tnfaip8", "Plau", "Il15ra", "Myc", "Cd44", "Dusp5", "Gem", "Fos", "Abca1", "Klf2", "Nfkb2"],
+    "_row": "HALLMARK_TNFA_SIGNALING_VIA_NFKB"
+  },
+  {
+    "ID": "HALLMARK_IL6_JAK_STAT3_SIGNALING",
+    "Description": "HALLMARK_IL6_JAK_STAT3_SIGNALING",
+    "NES": 2.6488,
+    "p.adjust": 6.25e-10,
+    "core_genes": ["Cxcl2", "Il6", "Il1b", "Ccl7", "Il1r2", "Pla2g2a", "A2m", "Cxcl13", "Socs3", "Cxcl9", "Tnf", "Ltb", "Hmox1", "Socs1", "Cxcl10", "Il12rb1", "Il2ra", "Il2rg", "Tnfrsf1b", "Cd14", "Tnfrsf12a", "Cxcl11", "Pim1", "Il3ra", "Osmr", "Il4ra", "Map3k8", "Cd38", "Crlf2", "Ebi3", "Pf4", "Ptpn1", "Il9r", "Tgfb1", "Pik3r5", "Myd88", "Stat1", "Il17ra", "Il10rb", "Ptpn2"],
+    "_row": "HALLMARK_IL6_JAK_STAT3_SIGNALING"
+  },
+  {
+    "ID": "HALLMARK_MYC_TARGETS_V1",
+    "Description": "HALLMARK_MYC_TARGETS_V1",
+    "NES": 2.6484,
+    "p.adjust": 6.25e-10,
+    "core_genes": ["Nme1", "Snrpd1", "Nop56", "Erh", "Gm10146", "Lsm2", "Snrpg", "Hspe1", "Dut", "Snrpd2", "Nhp2", "Npm1", "Hddc2", "Ssb", "Ranbp1", "Mad2l1", "Snrpa1", "Gnl3", "Ccna2", "Snrpd3", "Gm9531", "Ssbp1", "Rps2", "Rrp9", "Srm", "Rrm1", "Pa2g4", "Psmb3", "Pgk1", "Ppia", "C1qbp", "Rpl14", "Ran", "Rsl1d1", "Hdgf", "Psma4", "Rpl22", "Nap1l1", "Nop16", "Rps10", "Psma2", "Ppm1g", "Ifrd1", "Hspd1", "Ilf2", "Abce1", "Srsf7", "Nolc1", "Snrpb2", "Prpf31", "Tfdp1", "Rfc4", "Cdc20", "Psma7", "Hnrnpa2b1", "Rpl18", "Pole3", "Eif4e", "Psmc4", "Rps5", "Hnrnpd", "Orc2", "Mcm4", "Cdc45", "Myc", "Srsf3", "Pcna", "Mrpl23", "Xpo1", "Eif3d", "Tra2b", "Psmb2", "Eif4a1", "Phb2", "Rps6", "Snrpa", "Ncbp1", "Eef1b2", "Mcm2", "Hdac2", "Cops5", "Mcm7", "Cdk2", "Ndufab1", "Odc1", "Fbl", "Ywhae", "Kpnb1", "Gm4705", "Bub3", "Rpl6", "Serbp1", "Cct3", "Cdk4", "Eif3j1", "Tyms", "Exosc7", "Ldha", "Eif2s1", "Glo1", "Psmc6", "Psma6", "Cnbp", "Psmd14", "Mrpl9", "Cct2", "G3bp1", "Rplp0", "Ruvbl2", "Pabpc4", "Psmd1", "Etf1", "Cct7", "Psma1", "Srsf1", "Ddx21", "Syncrip", "Acp1", "Tomm70a", "Mcm5", "Uba2", "Tardbp", "Hnrnpc", "Eif3b", "Usp1"],
+    "_row": "HALLMARK_MYC_TARGETS_V1"
+  },
+  {
+    "ID": "HALLMARK_E2F_TARGETS",
+    "Description": "HALLMARK_E2F_TARGETS",
+    "NES": 2.62,
+    "p.adjust": 6.25e-10,
+    "core_genes": ["Nme1", "Cks1b", "Ccne1", "Rrm2", "Birc5", "Tacc3", "Cenpm", "Trip13", "Cdkn3", "Nop56", "Gins1", "Ube2s", "Mthfd2", "Tfrc", "Lyar", "Tipin", "Dut", "Asf1b", "Cdk1", "Prps1", "Cdca3", "Ranbp1", "Mad2l1", "Cdca8", "Ccnb2", "Nasp", "Orc6", "Spc24", "Exosc8", "Spc25", "Suv39h1", "Mcm3", "Mybl2", "Pa2g4", "Ak2", "Kif22", "Depdc1a", "Ran", "Cks2", "Phf5a", "Rpa2", "Hells", "Nap1l1", "Aurka", "Dctpp1", "Asf1a", "Jpt1", "Lsm8", "Gins3", "Psmc3ip", "Hmgb2", "Nolc1", "Tubb5", "Rpa3", "Racgap1", "Diaph3", "Melk", "Tk1", "Kif2c", "Donson", "Brca1", "Mxd3", "Prim2", "Pole4", "Spag5", "Lmnb1", "Chek1", "Mki67", "Tcf19", "Cdc20", "Top2a", "Kif4", "Hnrnpd", "Orc2", "Mcm4", "Aurkb", "Myc", "Pcna", "Xpo1", "Pold3", "Dlgap5", "Atad2", "Tra2b", "Lig1", "E2f8", "Pop7", "Cenpe", "Mcm2", "Rad51ap1", "Mcm7", "Rfc3", "Mms22l", "Hmgb3", "Smc4", "Anp32e", "Cdk4", "Eif2s1", "Dck", "Ppp1r8", "Cdc25a", "Stmn1", "Dscc1", "Cdc25b", "Plk4", "Tmpo", "Bard1", "Rnaseh2a", "Rad51c", "Nudt21", "Nup107", "Rfc2", "Pnn", "Srsf1", "Syncrip", "Gins4", "Tubg1", "Mcm5", "Timeless", "Espl1", "Cse1l", "Tbrg4", "Pola2", "Usp1"],
+    "_row": "HALLMARK_E2F_TARGETS"
+  },
+  {
+    "ID": "HALLMARK_INTERFERON_GAMMA_RESPONSE",
+    "Description": "HALLMARK_INTERFERON_GAMMA_RESPONSE",
+    "NES": 2.5698,
+    "p.adjust": 6.25e-10,
+    "core_genes": ["Fpr1", "Il6", "Ccl7", "Socs3", "Cxcl9", "Stat4", "Bank1", "Ido1", "Gpr18", "Ccl5", "Cd69", "Socs1", "Fcgr1", "Lcp2", "Cxcl10", "Vcam1", "Il10ra", "Cd86", "Cd40", "Gzma", "Nlrc5", "Icam1", "Cfh", "Isg15", "Ifitm3", "Zbp1", "Psmb8", "Mthfd2", "Cxcl11", "Pim1", "Pde4b", "Psme2", "H2-DMa", "Ifit2", "Psmb9", "Slc25a28", "Il4ra", "Irf5", "Il2rb", "Il18bp", "Sp110", "Cd38", "Nfkbia", "Hif1a", "Casp8", "Tap1", "H2-Aa", "Oas2", "Ptpn1", "Ciita", "Itgb7", "Psma2", "Gch1", "Ifnar2", "Psme1", "Upp1", "Myd88", "Nup93", "Stat1", "Ripk2", "Usp18", "Bst2", "Psmb10", "Ptpn6", "Cd274", "Gbp3", "Ifitm2", "Eif4e3", "Ptpn2", "Pnpt1", "Ube2l6", "Psma3", "Cd74", "Il15ra", "Epsti1", "Batf2", "Bpgm", "Irf8", "Psmb2", "Pnp", "Mvp", "St8sia4", "Vamp5", "Mx2", "Ifi35"],
+    "_row": "HALLMARK_INTERFERON_GAMMA_RESPONSE"
+  },
+  {
+    "ID": "HALLMARK_G2M_CHECKPOINT",
+    "Description": "HALLMARK_G2M_CHECKPOINT",
+    "NES": 2.2042,
+    "p.adjust": 6.25e-10,
+    "core_genes": ["Cks1b", "Snrpd1", "Ube2c", "Cdc7", "Bcl3", "Birc5", "Tacc3", "Cdkn3", "Ube2s", "Cdk1", "Traip", "Dbf4", "Mad2l1", "Ndc80", "E2f2", "Ccna2", "Bub1", "Ccnb2", "Nasp", "Orc6", "Hif1a", "Rad54l", "Suv39h1", "Mcm3", "Mybl2", "Polq", "Kif22", "Cks2", "Tpx2", "Rpa2", "Pbk", "Slc7a5", "Tgfb1", "Incenp", "Aurka", "Ncl", "Troap", "Nek2", "Dtymk", "Jpt1", "Kif23", "Fbxo5", "Cdc6", "Nolc1", "Racgap1", "Kif2c", "Smc2", "Hira", "Prim2", "Gins2", "Tfdp1", "Lmnb1", "Kif15", "Chek1", "Kif20b", "Mki67", "Cdc20", "Cenpa", "Top2a", "Kif4", "Sap30", "Hnrnpd", "Aurkb", "Cdc45", "Ccnf", "Myc", "Xpo1", "Exo1", "Tra2b", "Cenpe", "Mcm2", "Odc1", "Hmgb3", "Smc4", "Kpnb1", "Bub3", "E2f1", "Cdk4", "Srsf10", "Nusap1", "Cdc25a", "Stmn1", "G3bp1", "Cdc25b", "Plk4", "Hspa8", "Tmpo", "Bard1", "Ewsr1", "Chaf1a", "Srsf1", "Syncrip", "Uck2", "Mcm5", "Espl1", "Ttk", "Pola2", "Amd1", "Dkc1", "Top1", "Hmmr", "Mcm6", "E2f4", "Cbx1", "Marcks", "Katna1", "Dr1", "Stil", "Kif11"],
+    "_row": "HALLMARK_G2M_CHECKPOINT"
+  },
+  {
+    "ID": "HALLMARK_COMPLEMENT",
+    "Description": "HALLMARK_COMPLEMENT",
+    "NES": 2.1371,
+    "p.adjust": 4.8059e-08,
+    "core_genes": ["S100a9", "Il6", "Olr1", "Ltf", "F10", "Timp1", "Mmp13", "Itgam", "Plaur", "Plek", "Ccl5", "Gzmb", "Cr2", "Mmp12", "Fcer1g", "Lcp2", "C3", "Cp", "Cebpb", "Was", "F7", "Plat", "Pla2g7", "Gzma", "Cfh", "Gata3", "F5", "Rasgrp1", "Pim1", "Psmb9", "Kynu", "Lgmn", "Lyn", "C1qa", "Ctsc", "Gngt2", "Mmp14", "Lck", "Pik3r5", "Notch4", "Pfn1", "Ehd1", "S100a13", "C2"],
+    "_row": "HALLMARK_COMPLEMENT"
+  },
+  {
+    "ID": "HALLMARK_MTORC1_SIGNALING",
+    "Description": "HALLMARK_MTORC1_SIGNALING",
+    "NES": 2.0346,
+    "p.adjust": 1.3223e-07,
+    "core_genes": ["Slc7a11", "Coro1a", "Cxcr4", "Sla", "Psat1", "Igfbp5", "Rrm2", "Mthfd2", "Tfrc", "Hspe1", "Ak4", "Shmt2", "Tomm40", "Cacybp", "Nupr1", "Cfp", "Bub1", "Rrp9", "Lgmn", "Slc2a3", "Pgk1", "Ppia", "Psph", "Nfil3", "Ppp1r15a", "Gsr", "Eef1e1", "Psma4", "Ctsc", "Slc7a5", "Psmb5", "Asns", "Aurka", "Uchl5", "Dhfr", "Tuba4a", "Pno1", "Nufip1", "Ifrd1", "Hspd1", "Prdx1", "Cct6a", "Fkbp2", "Mthfd2l", "Hsp90b1", "Stip1", "Psma3", "Psmc4", "Hmbs", "Mcm4", "Skap2", "Ccnf", "Aldoa", "Pnp", "Ddit3", "Psmd12", "Mcm2", "Cops5", "Ssr1", "Calr", "Abcf2", "Psmd13", "Pdap1", "G6pdx", "Txnrd1", "Psme3", "Serp1", "Ifi30", "Psmg1", "Ldha", "Psmc2", "Psmc6", "Slc2a1", "Gtf2h1", "Cdc25a", "Tpi1", "Psmd14", "Actr3", "Phgdh", "Hspa9", "Ddit4", "Sdf2l1", "Nfkbib", "Actr2", "Hspa5", "Gpi1", "Got1", "Rpn1", "Arpc5l", "Etf1"],
+    "_row": "HALLMARK_MTORC1_SIGNALING"
+  },
+  {
+    "ID": "HALLMARK_IL2_STAT5_SIGNALING",
+    "Description": "HALLMARK_IL2_STAT5_SIGNALING",
+    "NES": 2.005,
+    "p.adjust": 2.0728e-07,
+    "core_genes": ["Il1r2", "Tnfrsf8", "Spp1", "Sell", "Tnfrsf9", "Tnfsf11", "Ctla4", "Rhoh", "Cd79b", "Ltb", "Socs1", "Capg", "Cxcl10", "Tlr7", "Il1rl1", "Lif", "Batf", "Il10ra", "Ccr4", "Icos", "Cd86", "Ager", "Tnfrsf4", "Ccne1", "Il2ra", "Gadd45b", "Penk", "Tnfrsf1b", "Ifitm3", "Phlda1", "Gpr65", "Pim1", "Il3ra", "Cd48", "Il4ra", "Map3k8", "Il2rb", "Rgs16", "Nfkbiz", "Batf3", "Glipr2", "Slc2a3", "Nfil3"],
+    "_row": "HALLMARK_IL2_STAT5_SIGNALING"
+  },
+  {
+    "ID": "HALLMARK_DNA_REPAIR",
+    "Description": "HALLMARK_DNA_REPAIR",
+    "NES": 2.047,
+    "p.adjust": 7.6014e-07,
+    "core_genes": ["Hcls1", "Nme1", "Aprt", "Dut", "Polr2f", "Ada", "Polr2h", "Pde4b", "Gtf2h5", "Rad51", "Rpa2", "Taf10", "Polr2k", "Pold4", "Rfc5", "Polr2i", "Gtf2f1", "Rpa3", "Eif1b", "Aaas", "Ercc8", "Taf13", "Polr1d", "Pole4", "Cetn2", "Rfc4", "Clp1", "Gtf2a2", "Upf3b", "Tarbp2", "Rbx1", "Pcna", "Pold3", "Nelfe", "Lig1", "Polr2d", "Pnp", "Alyref", "Prim1", "Rfc3", "Nudt9", "Taf12", "Polr2c", "Tk2", "Tyms", "Mrpl40", "Polb", "Gtf2h1", "Nt5c", "Snapc5", "Nme4", "Polr2g", "Dad1", "Rala", "Itpa", "Sf3a3", "Srsf6", "Nudt21", "Adrm1", "Gtf2b", "Rfc2", "Edf1", "Polr2e", "Gsdme", "Polr1c", "Mpc2", "Vps28", "Pola2", "Arl6ip1", "Guk1", "Sdcbp", "Gpx4", "Zwint", "Ell", "Cstf3", "Polr2j", "Polr3c", "Polr3gl", "Ercc3", "Tsg101", "Pold1", "Ncbp2", "Ssrp1", "Bcap31", "Ercc5", "Rnmt"],
+    "_row": "HALLMARK_DNA_REPAIR"
+  },
+  {
+    "ID": "HALLMARK_MYC_TARGETS_V2",
+    "Description": "HALLMARK_MYC_TARGETS_V2",
+    "NES": 2.2146,
+    "p.adjust": 1.6684e-06,
+    "core_genes": ["Dusp2", "Ppan", "Nop56", "Mrto4", "Hspe1", "Npm1", "Mphosph10", "Noc4l", "Nip7", "Gnl3", "Rrp9", "Srm", "Pa2g4", "Ndufaf4", "Nop16", "Dctpp1", "Grwd1", "Hspd1", "Wdr43", "Nolc1", "Nop2", "Map3k6", "Exosc5", "Rrp12", "Bysl", "Mcm4", "Mybbp1a", "Farsa", "Myc", "Pes1", "Ipo4", "Cdk4", "Prmt3", "Plk4", "Tcof1", "Rabepk", "Mcm5", "Tmem97", "Pus1", "Tbrg4"],
+    "_row": "HALLMARK_MYC_TARGETS_V2"
+  },
+  {
+    "ID": "HALLMARK_KRAS_SIGNALING_DN",
+    "Description": "HALLMARK_KRAS_SIGNALING_DN",
+    "NES": -2.0452,
+    "p.adjust": 2.27e-06,
+    "core_genes": ["Clstn3", "Chst2", "Ypel1", "Nos1", "Tfcp2l1", "Adra2c", "Celsr2", "Gdnf", "Cpeb3", "Kcnq2", "Sncb", "Cyp39a1", "Plag1", "Hnf1a", "Camk1d", "Slc6a14", "Grid2", "Hsd11b2", "Slc16a7", "Tent5c", "Abcg4", "Magix", "Egf", "Coq8a", "Zc2hc1c", "Prkn", "Zbtb16", "Ryr2", "Pdk2", "Kcnmb1", "Tenm2", "Actc1", "Edn2", "Ckm", "Slc25a23", "Ntf3", "Capn9", "Sstr4", "Ngb", "Klhdc8a", "Selenop", "P2rx6", "Sptbn2", "Edn1", "Igfbp2", "Fgfr3", "Clps", "Smpx", "Tex15", "P2ry4"],
+    "_row": "HALLMARK_KRAS_SIGNALING_DN"
+  },
+  {
+    "ID": "HALLMARK_KRAS_SIGNALING_UP",
+    "Description": "HALLMARK_KRAS_SIGNALING_UP",
+    "NES": 1.8973,
+    "p.adjust": 0,
+    "core_genes": ["Il1b", "Slpi", "Spp1", "Mmp10", "Aldh1a3", "Plaur", "Il33", "Arg1", "Cd37", "Fcer1g", "F13a1", "Clec4a3", "Cxcr4", "Cxcl10", "Lif", "G0s2", "Il10ra", "Inhba", "Dock2", "Lcp1", "Map4k1", "Ikzf1", "Plat", "Il2rg", "Cfh", "Angptl4", "Laptm5", "Tnfrsf1b", "Hbegf", "Plek2", "Psmb8", "Gadd45g", "Lat2", "Gpnmb", "Rgs16", "Yrdc", "Prdm1", "C3ar1", "Ets1", "Nr1h4", "Ppp1r15a"],
+    "_row": "HALLMARK_KRAS_SIGNALING_UP"
+  },
+  {
+    "ID": "HALLMARK_UNFOLDED_PROTEIN_RESPONSE",
+    "Description": "HALLMARK_UNFOLDED_PROTEIN_RESPONSE",
+    "NES": 1.9482,
+    "p.adjust": 0.0001,
+    "core_genes": ["Cebpb", "Psat1", "Cks1b", "Nop56", "Banf1", "Mthfd2", "Nhp2", "Npm1", "Arxes2", "Lsm4", "Eif4ebp1", "Exosc1", "Chac1", "Rrp9", "Exosc2", "Atf4", "Pop4", "Nabp1", "Slc7a5", "Asns", "Nolc1", "Nop14", "Hsp90b1", "Exosc5", "Eif4e", "Dcp2", "Ywhaz", "Eif4a1", "Exosc4", "Ssr1", "Calr", "Stc2", "Eif4a3", "Exosc9", "Lsm1", "Preb", "Serp1", "Eif2s1", "Rps14", "Zbtb17", "Hspa9", "Ddit4", "Hspa5", "Imp3", "Sdad1"],
+    "_row": "HALLMARK_UNFOLDED_PROTEIN_RESPONSE"
+  },
+  {
+    "ID": "HALLMARK_INTERFERON_ALPHA_RESPONSE",
+    "Description": "HALLMARK_INTERFERON_ALPHA_RESPONSE",
+    "NES": 1.936,
+    "p.adjust": 0.0001,
+    "core_genes": ["Sell", "Ifitm1", "Cxcl10", "Isg15", "Ifitm3", "Psmb8", "Cxcl11", "Psme2", "Ifit2", "Psmb9", "Slc25a28", "Il4ra", "Sp110", "Casp8", "Tap1", "Cd47", "Psme1", "Ripk2", "Usp18", "Bst2", "Gbp3", "Ifitm2", "Pnpt1", "Lpar6", "Ube2l6", "Psma3", "Cd74", "Epsti1", "Batf2", "Mx2", "Ifi35", "Ifi30", "Plscr1", "Ccrl2", "Uba7", "Rtp4", "Trim12c", "Trafd1", "Cnp", "Stat2", "Ifit3", "Trim26", "Lap3", "Mvb12a", "Irf1", "B2m", "Irf7", "Dhx58", "Isg20", "Irf9"],
+    "_row": "HALLMARK_INTERFERON_ALPHA_RESPONSE"
+  },
+  {
+    "ID": "HALLMARK_MYOGENESIS",
+    "Description": "HALLMARK_MYOGENESIS",
+    "NES": -1.7984,
+    "p.adjust": 0.0001,
+    "core_genes": ["Myh2", "Hspb8", "Eno3", "Ldb3", "App", "Chrna1", "Prnp", "Cav3", "Cdkn1a", "Sgcd", "Nav2", "Pgam2", "Pfkm", "Nos1", "Cryab", "Lpin1", "Pkia", "Gsn", "Pygm", "Tagln", "Schip1", "Hdac5", "Erbb3", "Ctf1", "Pcx", "Tpd52l1", "Ckb", "Gnao1", "Fxyd1", "Dtna", "Cfd", "Large1", "Speg", "Sorbs1", "Igfbp3", "Aplnr", "Dmd", "Cacna1h", "Fhl1", "Cdh13", "Dmpk", "Ckmt2", "Sspn", "Hspb2", "Tpm2", "Actc1", "Sh3bgr", "Kcnh2", "Ckm", "Mylk", "Hrc", "Smtn", "Myom1", "Des", "Sgca", "Myh11", "Casq2"],
+    "_row": "HALLMARK_MYOGENESIS"
+  },
+  {
+    "ID": "HALLMARK_ANGIOGENESIS",
+    "Description": "HALLMARK_ANGIOGENESIS",
+    "NES": 1.9301,
+    "p.adjust": 0.0005,
+    "core_genes": ["Olr1", "Cxcl5", "Spp1", "Timp1", "Pglyrp1"],
+    "_row": "HALLMARK_ANGIOGENESIS"
+  },
+  {
+    "ID": "HALLMARK_APOPTOSIS",
+    "Description": "HALLMARK_APOPTOSIS",
+    "NES": 1.5458,
+    "p.adjust": 0.0065,
+    "core_genes": ["Il6", "Il1b", "Il1a", "Timp1", "Tnf", "Cd69", "Hmox1", "Ier3", "Plat", "Gadd45b", "Cd14", "Tnfrsf12a", "Cd2", "Ifitm3", "Bax", "Anxa1", "Cd38", "Sat1", "Casp8", "Tap1", "Gpx3", "Gadd45a", "Gsr", "Egr3", "Gch1", "Il18", "Tspo", "Hmgb2", "Dcn", "Brca1", "Dnaja1", "Vdac2", "Top2a", "Lef1", "Cd44", "Bik", "Ddit3", "Cdk2", "Gpx1", "Diablo", "Satb1", "Bcl2l1", "Cdc25b", "Psen2", "Pmaip1", "Sod2"],
+    "_row": "HALLMARK_APOPTOSIS"
+  },
+  {
+    "ID": "HALLMARK_HEDGEHOG_SIGNALING",
+    "Description": "HALLMARK_HEDGEHOG_SIGNALING",
+    "NES": -1.7485,
+    "p.adjust": 0.0065,
+    "core_genes": ["Myh9", "Cntfr", "Nf1", "L1cam", "Rtn1", "Unc5c", "Tle1", "Hey1", "Slit1", "Nrcam", "Scg2", "Vldlr", "Ophn1", "Cdk6", "Amot", "Ptch1", "Adgrg1", "Nrp2", "Gli1"],
+    "_row": "HALLMARK_HEDGEHOG_SIGNALING"
+  },
+  {
+    "ID": "HALLMARK_UV_RESPONSE_UP",
+    "Description": "HALLMARK_UV_RESPONSE_UP",
+    "NES": 1.4924,
+    "p.adjust": 0.0135,
+    "core_genes": ["Il6", "Cxcl1", "Hmox1", "Ccne1", "Htr7", "Icam1", "Rasgrp1", "Tfrc", "Polr2h", "Arrb2", "Cdc34", "Gal", "Nfkbia", "Ap2s1", "Lyn", "Tap1", "Junb", "Gpx3", "Asns", "Mmp14", "Tchh", "Tuba4a", "Gch1", "Atp6v1f", "Alas1", "Prpf3", "Dnaja1", "Dgat1", "Rfc4", "Stip1", "Nptx2", "Pole3", "Aldoa", "Sigmar1", "Mrpl23", "Fos", "Cdk2", "Psmc3", "Pdap1", "Bak1", "Stk25", "Cyb5r1", "Cdkn1c", "Nxf1", "Ppat", "Grina", "Sod2", "Rpn1", "Ddx21", "E2f5", "Cnp", "Amd1", "Fkbp4", "Ccnd3", "Fosb", "Irf1", "Parp2", "Hyal2"],
+    "_row": "HALLMARK_UV_RESPONSE_UP"
+  },
+  {
+    "ID": "HALLMARK_FATTY_ACID_METABOLISM",
+    "Description": "HALLMARK_FATTY_ACID_METABOLISM",
+    "NES": -1.4179,
+    "p.adjust": 0.0317,
+    "core_genes": ["Cryz", "Eci1", "Gstz1", "Acaa2", "Echs1", "Adipor2", "Bmpr1b", "Sdha", "Hibch", "Hsd17b4", "Hsd17b11", "Serinc1", "Aldh3a2", "Idi1", "Acadm", "Hadhb", "Acads", "Fasn", "Ephx1", "Cbr3", "Car2", "Ptprg", "Hadh", "Acot2", "Me1", "Aqp7", "Suclg1", "Cpt1a", "Eno3", "Glul", "Bphl", "Gabarapl1", "Etfdh", "Retsat", "Acadvl", "Adh7", "Reep6", "Dhcr24", "Acss1", "Mgll", "Gapdhs", "Maoa", "Ugdh", "Acsm3", "Inmt", "Aldh1a1", "Ehhadh", "Hpgd", "Aoc3", "Gad2", "Hao2", "Hmgcs2", "Ppara"],
+    "_row": "HALLMARK_FATTY_ACID_METABOLISM"
+  },
+  {
+    "ID": "HALLMARK_P53_PATHWAY",
+    "Description": "HALLMARK_P53_PATHWAY",
+    "NES": 1.3362,
+    "p.adjust": 0.0334,
+    "core_genes": ["Il1a", "Hmox1", "Socs1", "Ier3", "Slc7a11", "Tnfsf9", "Lif", "Sphk1", "Gpx2", "Def6", "Inhbb", "Hbegf", "Rps12", "Dram1", "Ada", "Bax", "Epha2", "S100a10", "Nupr1", "Rgs16", "Sfn", "Sat1", "Rap2b", "Tap1", "Rhbdf2", "Gadd45a", "Rpl36", "Ppp1r15a", "Tgfb1", "Fam162a", "Tchh", "Upp1", "Rps27l", "Fbxw7", "Pidd1", "Rpl18", "Apaf1", "Hdac3", "Rad9a", "Pcna", "Stom", "Hras", "Fos", "Ddit3", "Iscu", "Bak1", "Serpinb5", "Ifi30", "Dgka", "Aen", "Jag2", "Ddit4", "Pmm1", "Rrp8", "Dcxr", "Pdgfa", "Cdk5r1", "Vamp8", "Rad51c", "Fas", "Slc3a2", "Trafd1", "Baiap2", "Nol8", "Dnttip2", "Cyfip2"],
+    "_row": "HALLMARK_P53_PATHWAY"
+  },
+  {
+    "ID": "HALLMARK_OXIDATIVE_PHOSPHORYLATION",
+    "Description": "HALLMARK_OXIDATIVE_PHOSPHORYLATION",
+    "NES": 1.393,
+    "p.adjust": 0.0345,
+    "core_genes": ["Polr2f", "Bax", "Uqcrq", "Etfb", "Mrps15", "Timm9", "Ndufb7", "Ndufa5", "Tomm22", "Mrpl11", "Tcirg1", "Timm13", "Ndufs4", "Cox7c", "Atp6v1g1", "Timm10", "Ndufa2", "Timm8b", "Atp6v1f", "Ndufb3", "Alas1", "Ndufa8", "Mrpl35", "Gm10053", "Mrps30", "Ndufa3", "Timm50", "Cox6b1", "Ndufv2", "Mrpl15", "Uqcrb", "Vdac2", "Ndufc1", "Uqcrh", "Ndufs7", "Phb2", "Ndufab1", "Iscu", "Mrpl34", "Cox5b", "Ldha", "Mrps11", "Atp6v0b", "Uqcr10", "Cox6c", "Mrps22", "Hspa9", "Cyb5a", "Cox7b", "Ndufb6", "Gpi1", "Ndufc2", "Mtx2", "Cox7a2", "Timm17a", "Htra2", "Idh1", "Tomm70a", "Ndufs6", "Atp6v1d", "Uqcr11", "Gpx4", "Ndufs3", "Atp6v1h", "Ndufs8", "Atp6v0e", "Cox4i1", "Supv3l1", "Sdhc", "Ndufb8", "Cox8a", "Mgst3", "Ndufa4", "Atp6v1c1", "Atp6ap1", "Ndufa7", "Fxn", "Ndufs2"],
+    "_row": "HALLMARK_OXIDATIVE_PHOSPHORYLATION"
+  },
+  {
+    "ID": "HALLMARK_COAGULATION",
+    "Description": "HALLMARK_COAGULATION",
+    "NES": 1.462,
+    "p.adjust": 0.0397,
+    "core_genes": ["Olr1", "Mmp3", "A2m", "F10", "Mmp10", "Timp1", "Plek", "C3", "Mmp7", "Plat", "Cfh", "Gda", "Anxa1", "Pf4", "Lgmn", "C1qa", "Mmp14"],
+    "_row": "HALLMARK_COAGULATION"
+  },
+  {
+    "ID": "HALLMARK_REACTIVE_OXYGEN_SPECIES_PATHWAY",
+    "Description": "HALLMARK_REACTIVE_OXYGEN_SPECIES_PATHWAY",
+    "NES": 1.4653,
+    "p.adjust": 0.0519,
+    "core_genes": ["Ipcef1", "Hhex", "Fes", "Junb", "Gpx3", "Ftl1", "Gsr", "Sbno2", "Prdx1", "Cdkn2d", "Lamtor5", "Stk25", "G6pdx", "Txnrd1", "Gclm", "Prdx2", "Lsp1", "Sod2", "Mgst1", "Atox1", "Ptpa", "Gpx4", "Srxn1", "Gclc", "Ndufs2", "Glrx", "Ndufa6", "Txnrd2", "Prdx4", "Txn1", "Pfkp", "Scaf4", "Abcc1", "Oxsr1"],
+    "_row": "HALLMARK_REACTIVE_OXYGEN_SPECIES_PATHWAY"
+  },
+  {
+    "ID": "HALLMARK_UV_RESPONSE_DN",
+    "Description": "HALLMARK_UV_RESPONSE_DN",
+    "NES": -1.3598,
+    "p.adjust": 0.0569,
+    "core_genes": ["Nipbl", "Tfpi", "Nr3c1", "Tjp1", "Ptprm", "Ldlr", "Ptpn21", "Acvr2a", "Atrn", "Prkca", "Erbb2", "Nr1d2", "Adgrl2", "Cited2", "Prkce", "Cdon", "Ltbp1", "Cacna1a", "Map1b", "Fbln5", "Add3", "Atp2b1", "Col11a1", "Pik3r3", "Rxra", "Prkar2b", "Zmiz1", "Rbpms", "Vldlr", "Cdc42bpa", "Smad7", "Plcb4", "Sdc2", "Schip1", "Mgll", "Inpp4b", "Atxn1", "Insig1", "Cav1", "Pmp22", "Cap2", "Kcnma1", "Irs1", "Arhgef9", "Fzd2", "Atp2b4", "Kit"],
+    "_row": "HALLMARK_UV_RESPONSE_DN"
+  },
+  {
+    "ID": "HALLMARK_EPITHELIAL_MESENCHYMAL_TRANSITION",
+    "Description": "HALLMARK_EPITHELIAL_MESENCHYMAL_TRANSITION",
+    "NES": 1.2777,
+    "p.adjust": 0.1022,
+    "core_genes": ["Il6", "Cxcl5", "Mmp3", "Spp1", "Timp1", "Plaur", "Capg", "Vcam1", "Inhba", "Areg", "Crlf1", "Gadd45b", "Lama1", "Tnfrsf12a", "Igfbp4", "Grem1", "Sat1", "Mgp", "Gadd45a", "Tgfb1", "Tgm2", "Mmp14", "Fgf2", "Dab2", "Tnfrsf11b", "Dcn", "Pthlh", "Prrx1", "Pmepa1", "Foxc2", "Nnmt", "Pvr", "Cd44", "Gem", "Mcm7", "Pcolce2", "Tgfbi", "Cthrc1", "Gpx7", "Basp1", "Lamc2", "Tpm4"],
+    "_row": "HALLMARK_EPITHELIAL_MESENCHYMAL_TRANSITION"
+  },
+  {
+    "ID": "HALLMARK_PEROXISOME",
+    "Description": "HALLMARK_PEROXISOME",
+    "NES": -1.3177,
+    "p.adjust": 0.1275,
+    "core_genes": ["Hsd11b2", "Atxn1", "Aldh1a1", "Ehhadh", "Esr2", "Slc27a2", "Ttr", "Hao2", "Dio1", "Abcb1a", "Alb"],
+    "_row": "HALLMARK_PEROXISOME"
+  },
+  {
+    "ID": "HALLMARK_PI3K_AKT_MTOR_SIGNALING",
+    "Description": "HALLMARK_PI3K_AKT_MTOR_SIGNALING",
+    "NES": 1.2203,
+    "p.adjust": 0.2158,
+    "core_genes": ["Cxcr4", "Sla", "Il2rg", "Cdk1", "Cfl1", "Sfn", "Lck", "Prkcb", "Myd88", "Arpc3", "Prkag1", "Pfn1", "Ube2n", "Hsp90b1", "Eif4e", "Adcy2", "Hras", "Ddit3", "Cdk2", "Calr", "E2f1", "Cdk4", "Pla2g12a", "Slc2a1", "Actr3", "Tnfrsf1a", "Nfkbib", "Actr2", "Csnk2b"],
+    "_row": "HALLMARK_PI3K_AKT_MTOR_SIGNALING"
+  },
+  {
+    "ID": "HALLMARK_BILE_ACID_METABOLISM",
+    "Description": "HALLMARK_BILE_ACID_METABOLISM",
+    "NES": -1.2098,
+    "p.adjust": 0.2158,
+    "core_genes": ["Fads1", "Isoc1", "Hsd17b4", "Hsd17b11", "Pex1", "Idi1", "Slc23a2", "Lonp2", "Crot", "Nedd4", "Cat", "Pnpla8", "Abca6", "Abca2", "Rxra", "Ar", "Retsat", "Pfkm", "Tfcp2l1", "Abca3", "Hacl1", "Dhcr24", "Cyp39a1", "Klf1", "Atxn1", "Abcg4", "Bmp6", "Fads2", "Nr3c2", "Aldh1a1", "Abca8b", "Slc27a2", "Ttr", "Dio1"],
+    "_row": "HALLMARK_BILE_ACID_METABOLISM"
+  },
+  {
+    "ID": "HALLMARK_HYPOXIA",
+    "Description": "HALLMARK_HYPOXIA",
+    "NES": 1.1124,
+    "p.adjust": 0.3545,
+    "core_genes": ["Il6", "Mt1", "Plaur", "Hmox1", "Ier3", "Cxcr4", "Cp", "Chst3", "Adora2b", "Adm", "Pfkfb3", "Mif", "Angptl4", "Hs3st1", "Anxa2", "Pim1", "Ak4", "Dusp1", "Pgf", "Slc2a3", "Pgk1", "Ets1", "Zfp36", "Nfil3", "Ppp1r15a", "Prdx5", "Tgm2", "Fam162a"],
+    "_row": "HALLMARK_HYPOXIA"
+  },
+  {
+    "ID": "HALLMARK_ESTROGEN_RESPONSE_LATE",
+    "Description": "HALLMARK_ESTROGEN_RESPONSE_LATE",
+    "NES": -1.0733,
+    "p.adjust": 0.4517,
+    "core_genes": ["Tspan13", "Scnn1a", "Nrip1", "Cpe", "Abca3", "Il17rb", "Celsr2", "Npy1r", "Homer2", "Cyp26b1", "Kcnk5", "Pdcd4", "Tpd52l1", "Ptger3", "Ckb", "Rapgefl1", "Abhd2", "Ugdh", "Large1", "Cav1", "St6galnac2", "Chpt1", "Tfpi2", "Pcp4", "Prss23", "Atp2b4", "Slc27a2", "Gper1", "Nmu", "Fgfr3", "Slc24a3", "Slc26a2", "Hmgcs2", "Cacna2d2", "Pdlim3", "Scube2", "Prlr"],
+    "_row": "HALLMARK_ESTROGEN_RESPONSE_LATE"
+  },
+  {
+    "ID": "HALLMARK_WNT_BETA_CATENIN_SIGNALING",
+    "Description": "HALLMARK_WNT_BETA_CATENIN_SIGNALING",
+    "NES": -1.0618,
+    "p.adjust": 0.5051,
+    "core_genes": ["Hey1", "Axin2", "Ctnnb1", "Wnt5b", "Frat1", "Fzd8", "Hdac5", "Gnai1", "Ptch1", "Nkd1", "Hdac11"],
+    "_row": "HALLMARK_WNT_BETA_CATENIN_SIGNALING"
+  },
+  {
+    "ID": "HALLMARK_XENOBIOTIC_METABOLISM",
+    "Description": "HALLMARK_XENOBIOTIC_METABOLISM",
+    "NES": -0.9982,
+    "p.adjust": 0.6159,
+    "core_genes": ["Cat", "Hgfac", "Slc22a1", "Pink1", "Hnf4a", "Fbln1", "Bphl", "Gabarapl1", "Etfdh", "Entpd5", "Retsat", "Abcc3", "Pycr1", "Aox1", "Cyp2s1", "Csad", "Adh7", "Ttpa", "Cdo1", "Hacl1", "Aldh2", "Enpep", "Pcx", "Ddc", "Rap1gap", "Maoa", "Ugdh", "Cfb", "Rbp4", "Cyp2e1", "Upb1", "Abcc2", "Ces1d", "Cyp4f14", "Pdk4", "Cyp2c55", "Fbp1"],
+    "_row": "HALLMARK_XENOBIOTIC_METABOLISM"
+  },
+  {
+    "ID": "HALLMARK_APICAL_SURFACE",
+    "Description": "HALLMARK_APICAL_SURFACE",
+    "NES": -0.9938,
+    "p.adjust": 0.6159,
+    "core_genes": ["Ephb4", "Adipor2", "Atp8b1", "Crocc", "Pkhd1", "Hspb1", "Mdga1", "Afap1l2", "Srpx", "Cx3cl1", "App", "Dcbld2", "Rtn4rl1", "Ntng1", "Gas1", "Slc2a4", "Tmem8b", "Mal"],
+    "_row": "HALLMARK_APICAL_SURFACE"
+  },
+  {
+    "ID": "HALLMARK_ANDROGEN_RESPONSE",
+    "Description": "HALLMARK_ANDROGEN_RESPONSE",
+    "NES": -0.9919,
+    "p.adjust": 0.6159,
+    "core_genes": ["Ndrg1", "Bmpr1b", "Fads1", "Dnajb9", "Sgk1", "Idi1", "Ptpn21", "Gpd1l", "Pgm3", "Herc3", "Lifr", "Sord", "Zmiz1", "Cdc14b", "Tsc22d1", "Zbtb10", "Ncoa4", "Mertk", "Dhcr24", "Acsl3", "Cdk6", "Homer2", "Inpp4b", "Abhd2", "Azgp1", "Insig1", "Hpgd", "Ank", "Selenop", "Slc26a2"],
+    "_row": "HALLMARK_ANDROGEN_RESPONSE"
+  },
+  {
+    "ID": "HALLMARK_GLYCOLYSIS",
+    "Description": "HALLMARK_GLYCOLYSIS",
+    "NES": 0.9699,
+    "p.adjust": 0.6761,
+    "core_genes": ["Ier3", "Cxcr4", "Slc16a3", "Adora2b", "Mif", "Angptl4", "Cdk1", "Prps1", "Spag4", "Ak4", "Pygl", "Nasp", "Artn", "Pgk1", "Ppia", "Pfkfb1", "Depdc1a", "Fam162a", "Aurka", "Dcn", "Gnpda1", "Gale", "Cenpa", "Sap30", "Psmc4", "Aldoa", "Cd44", "Ndufv3", "Pmm2", "Bik", "Pkm", "Stc2", "Tgfbi", "G6pdx", "Ldha", "Stmn1", "Mpi", "Fbp2", "Gmppb", "Tpi1", "Ddit4", "Cyb5a", "Elf3", "Hax1", "Pkp2", "Nol3", "Hspa5", "Got1", "Gmppa", "Egln3", "Gusb", "Idh1", "B4galt7", "Galk1", "Fkbp4", "Polr3k", "Ecd", "Slc25a10", "Slc37a4", "Arpp19", "Hmmr", "Taldo1", "Isg20"],
+    "_row": "HALLMARK_GLYCOLYSIS"
+  },
+  {
+    "ID": "HALLMARK_HEME_METABOLISM",
+    "Description": "HALLMARK_HEME_METABOLISM",
+    "NES": -0.9485,
+    "p.adjust": 0.7477,
+    "core_genes": ["Ctns", "Nr3c1", "Hagh", "Daam1", "Add1", "Klf3", "Gde1", "Mkrn1", "Kat2b", "Tspan5", "Ccdc28a", "Khnyn", "Dmtn", "Ezh1", "Car2", "Endod1", "Btrc", "Cat", "Vezf1", "Arhgef12", "Igsf3", "Sptb", "Tnrc6b", "Tfdp2", "Mfhas1", "Ncoa4", "Tmcc2", "Narf", "Acsl6", "Bcam", "Xk", "Pcx", "Add2", "Klf1", "Tent5c", "Rap1gap", "Selenbp1", "Aldh6a1", "Foxo3", "Tns1", "Ank1", "Ctse", "Fn3k", "Slc30a10", "Spta1"],
+    "_row": "HALLMARK_HEME_METABOLISM"
+  },
+  {
+    "ID": "HALLMARK_APICAL_JUNCTION",
+    "Description": "HALLMARK_APICAL_JUNCTION",
+    "NES": -0.9203,
+    "p.adjust": 0.7772,
+    "core_genes": ["Cd34", "Nrap", "Jam3", "Grb7", "Amigo1", "Nexn", "Cdh6", "Nrxn2", "Cx3cl1", "Lama3", "Pik3r3", "Cadm3", "Sgce", "Ppp2r2c", "Calb2", "Mpzl2", "Dmp1", "Cntn1", "Nlgn3", "Cdh4", "Negr1", "Pkd1", "Gnai1", "Thbs3", "Cldn15", "Speg", "Insig1", "Cldn5", "Flnc", "Irs1", "Actc1", "Kcnh2", "Tmem8b", "Myl9", "Actg2"],
+    "_row": "HALLMARK_APICAL_JUNCTION"
+  },
+  {
+    "ID": "HALLMARK_PANCREAS_BETA_CELLS",
+    "Description": "HALLMARK_PANCREAS_BETA_CELLS",
+    "NES": -0.8843,
+    "p.adjust": 0.7772,
+    "core_genes": ["Foxa2", "Gcg", "Insm1", "Scgn", "Pax6", "Stxbp1", "Dpp4", "Pcsk2", "Dcx", "Hnf1a", "Vdr", "Pcsk1", "G6pc2"],
+    "_row": "HALLMARK_PANCREAS_BETA_CELLS"
+  },
+  {
+    "ID": "HALLMARK_ADIPOGENESIS",
+    "Description": "HALLMARK_ADIPOGENESIS",
+    "NES": -0.9004,
+    "p.adjust": 0.8382,
+    "core_genes": ["Slc27a1", "Acly", "Reep6", "Mccc1", "Gbe1", "Cavin1", "Aldh2", "Mgll", "Pdcd4", "Ptger3", "Bckdha", "Sncg", "Sorbs1", "Gpam", "Slc5a6", "Sspn", "Sult1a1", "Cyp4b1", "Cavin2", "Itih5", "Mylk", "Retn", "Adipoq", "Sparcl1"],
+    "_row": "HALLMARK_ADIPOGENESIS"
+  },
+  {
+    "ID": "HALLMARK_MITOTIC_SPINDLE",
+    "Description": "HALLMARK_MITOTIC_SPINDLE",
+    "NES": 0.8858,
+    "p.adjust": 0.8709,
+    "core_genes": ["Dock2", "Birc5", "Prex1", "Pif1", "Cdk1", "Rhof", "Arhgap4", "Ndc80", "Bub1", "Ccnb2", "Fscn1", "Kif22", "Tpx2", "Incenp", "Aurka", "Nek2", "Tuba4a", "Shroom1", "Kif23", "Fbxo5", "Racgap1", "Kif2c", "Lmnb1", "Kif15", "Kif20b", "Top2a", "Kif4", "Dlgap5", "Ssh2", "Cenpe", "Plekhg2", "Ywhae", "Smc4", "Tubd1", "Cdc42ep2", "Cep57", "Uxt", "Nusap1", "Anln"],
+    "_row": "HALLMARK_MITOTIC_SPINDLE"
+  },
+  {
+    "ID": "HALLMARK_ESTROGEN_RESPONSE_EARLY",
+    "Description": "HALLMARK_ESTROGEN_RESPONSE_EARLY",
+    "NES": -0.879,
+    "p.adjust": 0.8801,
+    "core_genes": ["Add3", "Aff1", "Hspb8", "Klf4", "Tff3", "Ar", "Sybu", "Clic3", "Deptor", "Nav2", "Scnn1a", "Nrip1", "Calb2", "Abca3", "Il17rb", "Celsr2", "Npy1r", "Cyp26b1", "Kcnk5", "Tpd52l1", "Rapgefl1", "Abhd2", "Cbfa2t3", "Gfra1", "Adcy1", "Syngr1", "Chpt1", "Retreg1", "Abat", "Prss23", "Slc27a2", "Slc24a3", "Slc26a2", "Pdlim3"],
+    "_row": "HALLMARK_ESTROGEN_RESPONSE_EARLY"
+  },
+  {
+    "ID": "HALLMARK_CHOLESTEROL_HOMEOSTASIS",
+    "Description": "HALLMARK_CHOLESTEROL_HOMEOSTASIS",
+    "NES": 0.8124,
+    "p.adjust": 0.8803,
+    "core_genes": ["Plaur", "S100a11", "Tnfrsf12a", "Fabp5", "Lgmn", "Nfil3", "Cxcl16"],
+    "_row": "HALLMARK_CHOLESTEROL_HOMEOSTASIS"
+  },
+  {
+    "ID": "HALLMARK_SPERMATOGENESIS",
+    "Description": "HALLMARK_SPERMATOGENESIS",
+    "NES": -0.7827,
+    "p.adjust": 0.9584,
+    "core_genes": ["Scg3", "Ace", "Gfi1", "Oaz3", "Nos1", "Lpin1", "Camk4", "Gapdhs", "Cftr", "Chrm4", "Zc2hc1c", "Slc2a5", "Tcp11", "Art3"],
+    "_row": "HALLMARK_SPERMATOGENESIS"
+  },
+  {
+    "ID": "HALLMARK_NOTCH_SIGNALING",
+    "Description": "HALLMARK_NOTCH_SIGNALING",
+    "NES": -0.6367,
+    "p.adjust": 0.9909,
+    "core_genes": ["Fbxw11", "Prkca", "Dtx4", "St3gal6", "Fzd5", "Heyl", "Arrb1", "Fzd7"],
+    "_row": "HALLMARK_NOTCH_SIGNALING"
+  },
+  {
+    "ID": "HALLMARK_TGF_BETA_SIGNALING",
+    "Description": "HALLMARK_TGF_BETA_SIGNALING",
+    "NES": -0.643,
+    "p.adjust": 1,
+    "core_genes": ["Apc", "Bmpr1a", "Cdh1", "Smurf1", "Acvr1", "Smurf2", "Ncor2", "Tjp1", "Ski", "Sptbn1", "Ppm1a", "Ctnnb1", "Hipk2", "Nog", "Smad7", "Bmp2", "Slc20a1", "Smad6"],
+    "_row": "HALLMARK_TGF_BETA_SIGNALING"
+  },
+  {
+    "ID": "HALLMARK_PROTEIN_SECRETION",
+    "Description": "HALLMARK_PROTEIN_SECRETION",
+    "NES": -0.477,
+    "p.adjust": 1,
+    "core_genes": ["Cltc", "Copb1", "Arfgef1", "Sgms1", "Rab5a", "Cog2", "Gbf1", "Mon2", "Arfgef2", "Sec24d", "Rps6ka3", "Pam", "Yipf6", "Ap3b1", "Cln5", "Scamp1", "Arfgap3", "Gnas", "Atp7a", "Golga4", "Sh3gl2", "Kif1b", "Atp1a1", "Igf2r", "Scrn1", "Dst", "Sspn"],
+    "_row": "HALLMARK_PROTEIN_SECRETION"
+  }
+]

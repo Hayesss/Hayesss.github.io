@@ -1,0 +1,7 @@
+{
+  "state": "error",
+  "message": "error: TF 失败: Network is empty after intersecting it with mat and\nfiltering it by sources with at least 5 targets. Make sure mat and \nnetwork have shared target features or reduce the number assigned to minsize",
+  "created_at": "2026-01-01T07:27:29.220570+00:00",
+  "started_at": "2026-01-01T07:27:32Z",
+  "finished_at": "2026-01-01T07:28:37Z"
+}

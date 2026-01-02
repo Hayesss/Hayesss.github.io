@@ -1,0 +1,30 @@
+name: rna_seq_web
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - fastapi>=0.110.0
+  - uvicorn>=0.27.0
+  - python-multipart>=0.0.9
+
+  # R runtime
+  - r-base=4.3
+  - r-ggplot2
+  - r-dplyr
+  - r-tidyr
+  - r-tibble
+  - r-jsonlite
+  - r-viridis
+  - r-circlize
+
+  # Bioconductor
+  - bioconductor-deseq2
+  - bioconductor-complexheatmap
+  - bioconductor-clusterprofiler
+  - bioconductor-gsva
+
+  # Gene sets helper (替代本地 gmt 文件时可用)
+  - r-msigdbr

@@ -1,0 +1,28 @@
+{
+  "job_id": "07c7ee795b9d4e129ad1150c3afd0c81",
+  "created_at": "2026-01-01T12:55:03.024784Z",
+  "input": {
+    "counts_path": "/home/zhs/RNA_seq_web/var/jobs/07c7ee795b9d4e129ad1150c3afd0c81/input/counts.csv",
+    "metadata_path": "/home/zhs/RNA_seq_web/var/jobs/07c7ee795b9d4e129ad1150c3afd0c81/input/metadata.csv"
+  },
+  "min_count_filter": 10,
+  "design_var": "condition",
+  "contrast_num": "treat",
+  "contrast_denom": "control",
+  "padj_threshold": 0.05,
+  "lfc_threshold": 1.0,
+  "modules": {
+    "pca": true,
+    "deseq2": true,
+    "gsea": true,
+    "gsva": true,
+    "tf": true,
+    "heatmap": true
+  },
+  "species": "mouse",
+  "gmt_file": "mh.all.v2025.1.Mm.symbols.gmt",
+  "heatmap_genes": "",
+  "msigdb_dir": "/home/zhs/RNA_seq_web/msigdb",
+  "cache_dir": "/home/zhs/RNA_seq_web/cache",
+  "project_root": "/home/zhs/RNA_seq_web"
+}

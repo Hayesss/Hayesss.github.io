@@ -1,0 +1,13 @@
+sample,condition,batch
+C1,control,batch1
+C2,control,batch2
+C3,control,batch3
+C4,control,batch4
+M2,treat,batch1
+M3,treat,batch2
+M4,treat,batch3
+M5,treat,batch4
+SY7,drug,batch1
+SY8,drug,batch2
+SY4,drug,batch3
+SY5,drug,batch4

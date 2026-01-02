@@ -1,0 +1,20 @@
+converting counts to integer mode
+converting counts to integer mode
+estimating size factors
+estimating dispersions
+gene-wise dispersion estimates
+mean-dispersion relationship
+final dispersion estimates
+fitting model and testing
+
+
+Attaching package: ‘plotthis’
+
+The following object is masked from ‘package:ComplexHeatmap’:
+
+    Heatmap
+
+error: GSEA 失败: 'dotplot' is not an exported object from 'namespace:plotthis' 
+Warning message:
+In fgseaMultilevel(pathways = pathways, stats = stats, minSize = minSize,  :
+  For some pathways, in reality P-values are less than 1e-10. You can set the `eps` argument to zero for better estimation.

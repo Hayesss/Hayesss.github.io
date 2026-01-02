@@ -1,0 +1,21 @@
+converting counts to integer mode
+converting counts to integer mode
+estimating size factors
+estimating dispersions
+gene-wise dispersion estimates
+mean-dispersion relationship
+final dispersion estimates
+fitting model and testing
+
+[2026-01-01 15:28:37] [SUCCESS] [OmnipathR] Downloaded 64516 interactions.
+error: TF 失败: Network is empty after intersecting it with mat and
+filtering it by sources with at least 5 targets. Make sure mat and 
+network have shared target features or reduce the number assigned to minsize 
+Warning messages:
+1: In fgseaMultilevel(pathways = pathways, stats = stats, minSize = minSize,  :
+  For some pathways, in reality P-values are less than 1e-10. You can set the `eps` argument to zero for better estimation.
+2: Calling gsva(expr=., gset.idx.list=., method=., ...) is deprecated; use a method-specific parameter object (see '?gsva'). 
+3: One or more parsing issues, call `problems()` on your data frame for details,
+e.g.:
+  dat <- vroom(...)
+  problems(dat) 

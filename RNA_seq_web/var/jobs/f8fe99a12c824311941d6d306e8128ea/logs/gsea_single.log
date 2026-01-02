@@ -1,0 +1,8 @@
+
+Attaching package: ‘plotthis’
+
+The following object is masked from ‘package:ComplexHeatmap’:
+
+    Heatmap
+
+单通路 GSEA 图生成成功: /home/zhs/RNA_seq_web/var/jobs/f8fe99a12c824311941d6d306e8128ea/output/gsea_pathway_HALLMARK_IL6_JAK_STAT3_SIGNALING.png 

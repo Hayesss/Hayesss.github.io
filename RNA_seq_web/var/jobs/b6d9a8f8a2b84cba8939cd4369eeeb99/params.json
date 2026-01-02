@@ -1,0 +1,8 @@
+{
+  "job_id": "b6d9a8f8a2b84cba8939cd4369eeeb99",
+  "parent_job_id": "fe66ca2b3b374b6d930d9154b0b1a2cc",
+  "derived_type": "volcano",
+  "parent_job_dir": "/home/zhs/RNA_seq_web/var/jobs/fe66ca2b3b374b6d930d9154b0b1a2cc",
+  "top_n": 10,
+  "mark_genes": "Cxcl2,Il6,Il1b,Olr1,Cxcl5,Il1a,Cxcl1,Dusp2,Socs3,Tnfrsf9,Plaur,Plek,Tnf,Ccl5,Cd69,Bcl2a1d,Ier3,Tnfsf9,Phlda2,Cd80,Cxcl10,Lif,Cebpb,Fosl1,G0s2,Sphk1,Inhba,Clcf1,Areg,Pfkfb3,Icam1,Nfkbie,Bcl3,Gadd45b,Slc2a6,Rel,Hbegf,Dram1,Phlda1,Cxcl11,Pde4b,Zc3h12a,Ifit2,Gpr183,Map3k8,Dusp1,Nfkbia,Yrdc,Slc16a6,Sat1,Kynu,Egr2,Tap1,Junb,Slc2a3,Egr1,Cebpd,Zfp36,Nfil3,Gadd45a,Ppp1r15a,Egr3,Klf10,Gch1,Ccnl1,Il18,Ripk2,Ehd1,Snn,Icosl,Ier2,Birc2,Pmepa1,Tnfaip8,Plau,Il15ra,Myc,Cd44,Dusp5,Gem,Fos,Abca1,Klf2,Nfkb2"
+}

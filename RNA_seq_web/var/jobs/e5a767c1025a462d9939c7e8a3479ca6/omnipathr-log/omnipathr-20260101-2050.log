@@ -1,0 +1,12 @@
+[2026-01-01 20:50:09] [INFO]    [OmnipathR] Welcome to OmnipathR!
+[2026-01-01 20:50:09] [TRACE]   [OmnipathR] Reading JSON from `/home/zhs/.cache/OmnipathR/cache.json` (encoding: UTF-8).
+[2026-01-01 20:50:09] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2026-01-01 20:50:09] [INFO]    [OmnipathR] Initialized cache: `/home/zhs/.cache/OmnipathR`.
+[2026-01-01 20:50:09] [TRACE]   [OmnipathR] Reading JSON from `/home/zhs/miniforge3/envs/rna_seq_web/lib/R/library/OmnipathR/db/db_def.json` (encoding: UTF-8).
+[2026-01-01 20:50:09] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2026-01-01 20:50:09] [TRACE]   [OmnipathR] Reading JSON from `/home/zhs/miniforge3/envs/rna_seq_web/lib/R/library/OmnipathR/internal/magic_bytes.json` (encoding: UTF-8).
+[2026-01-01 20:50:09] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2026-01-01 20:50:09] [TRACE]   [OmnipathR] Reading JSON from `/home/zhs/miniforge3/envs/rna_seq_web/lib/R/library/OmnipathR/internal/urls.json` (encoding: UTF-8).
+[2026-01-01 20:50:09] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2026-01-01 20:50:09] [TRACE]   [OmnipathR] Reading JSON from `/home/zhs/miniforge3/envs/rna_seq_web/lib/R/library/OmnipathR/internal/id_types.json` (encoding: UTF-8).
+[2026-01-01 20:50:09] [TRACE]   [OmnipathR] JSON validation successful: TRUE

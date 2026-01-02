@@ -1,0 +1,10 @@
+converting counts to integer mode
+
+Attaching package: ‘plotthis’
+
+The following object is masked from ‘package:ComplexHeatmap’:
+
+    Heatmap
+
+单通路 GSEA 图生成成功: /home/zhs/RNA_seq_web/var/jobs/193cb7014a334f8397d47a6b423e3270/output/gsea_pathway_HALLMARK_IL6_JAK_STAT3_SIGNALING.png 
+热图生成完成: /home/zhs/RNA_seq_web/var/jobs/193cb7014a334f8397d47a6b423e3270/output/heatmap.png 
